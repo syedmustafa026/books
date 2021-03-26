@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @syedmustafa026
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Syed Mustafa
+- 👀 I’m interested in Coding(Html,CSS,JS)
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on learners
 
